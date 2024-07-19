@@ -1,10 +1,9 @@
+import Chat from "./components/Chat"
 
 const App = () => {
 
   return (
-    <>
-      <div>Hello</div>
-    </>
+    <Chat/>
   )
 }
 
